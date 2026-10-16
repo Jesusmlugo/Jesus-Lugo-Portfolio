@@ -1,0 +1,27 @@
+WEB PERSONAL — MSc. JESÚS MIGUEL LUGO GOTOPO
+
+ARCHIVOS
+- index.html: estructura y contenido de la página.
+- styles.css: diseño responsive, colores y animaciones.
+- script.js: menú móvil, filtros del portafolio y año del pie de página.
+- assets/: logo y fotografías extraídas del portafolio suministrado.
+- proyectos/: fichas individuales con galerías para los ocho proyectos. Al tocar una tarjeta del inicio se abre su ficha en una pestaña nueva.
+
+CÓMO VERLA
+Abre index.html en un navegador. Para una vista local completa, también puedes iniciar un servidor estático desde esta carpeta (por ejemplo, `python -m http.server 8000`) y abrir http://localhost:8000.
+
+PUBLICACIÓN RECOMENDADA
+La web es estática y se puede publicar en Netlify, Cloudflare Pages o GitHub Pages. Sube el contenido de esta carpeta (no solo el HTML) y conecta tu dominio si tienes uno.
+
+ANTES DE PUBLICAR
+1. Confirma que todas las imágenes y descripciones de proyectos están aprobadas para uso público.
+2. Verifica que el número de WhatsApp y el correo sean correctos.
+3. Revisa los enlaces de Instagram y los datos profesionales.
+4. Los paquetes son una propuesta inicial de organización comercial, no una lista de precios ni un compromiso de entregables; ajusta sus alcances antes de publicarlos como oferta definitiva.
+5. Añade un dominio propio si lo deseas. Los costes de dominio y alojamiento dependen del proveedor elegido.
+
+TECNOLOGÍA
+HTML, CSS y JavaScript sin framework ni dependencias de ejecución. La tipografía se carga desde Google Fonts; si deseas que funcione sin conexión, instala fuentes locales o elimina las referencias de Google Fonts.
+
+
+Actualización: se amplió la ficha de Pin Zulia Bowling con fotografías adicionales de proceso, equipo y espacio tomadas del PDF PROYECTOS.pdf. Se muestran antes de las vistas complementarias.
